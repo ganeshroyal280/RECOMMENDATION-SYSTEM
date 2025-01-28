@@ -80,3 +80,4 @@ more advanced recommendation systems for real-world applications.
 
 **###OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/729ebe41-1d37-42fa-92a6-72f80f164d7a)
